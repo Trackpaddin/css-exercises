@@ -1,0 +1,18 @@
+.pinkish {    
+    color: #ffc08b;
+    font-family: Verdana, "DejaVu Sans", sans-serif;   
+}
+
+.big {
+   font-size: 24px;
+}
+
+#sky {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#emerald {
+    color: #00bf00;
+    font-weight: bold;
+}
