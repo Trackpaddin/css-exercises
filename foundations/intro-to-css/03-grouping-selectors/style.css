@@ -1,0 +1,15 @@
+.orca,
+.bumblebee {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.orca {
+    color: #ffffff;
+    background-color: #000000;
+}
+
+.bumblebee {
+    color: #000000;
+    background-color: #ffff00;
+}
